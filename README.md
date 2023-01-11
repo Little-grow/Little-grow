@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hi, I am Shahd <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+<table>
+ <tr>
+  <td valign="crnter">
+   I am currently pursuing my Bachelor's in Computer Science
+   I am currently learning .Net and also interestd in AI
+   My goal is to Contribute to as many open source project as possible 
+  </td>
+
+</table>
 
 <!--
 **Little-grow/Little-grow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
