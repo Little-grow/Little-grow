@@ -3,22 +3,26 @@
 <table>
  <tr>
   <td valign="crnter">
-   I am currently pursuing my Bachelor's in Computer Science
+   🎓 I am currently pursuing my Bachelor's in Computer Science
   </td> 
  </tr> 
+
   <tr>
   <td>
-   I am currently learning .Net and also interestd in AI
+   🌱 I am currently learning .Net and also interestd in AI
   </td>
   </tr>
-  <tr>
+ 
+ <tr>
   <td>
-     My goal is to Contribute to as many open source project as possible 
+   🎯 My goal is to Contribute to as many open source project as possible 
   </td>
- </tr>
+ </tr> 
 </table>
 
 [![Shahd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Little-grow)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 
 <!--
 **Little-grow/Little-grow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
