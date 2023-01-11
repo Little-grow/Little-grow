@@ -4,10 +4,14 @@
  <tr>
   <td valign="crnter">
    I am currently pursuing my Bachelor's in Computer Science
-  </td>  
+  </td> 
+ </tr> 
+  <tr>
   <td>
    I am currently learning .Net and also interestd in AI
   </td>
+  </tr>
+  <tr>
   <td>
      My goal is to Contribute to as many open source project as possible 
   </td>
