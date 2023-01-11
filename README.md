@@ -4,14 +4,18 @@
  <tr>
   <td valign="crnter">
    I am currently pursuing my Bachelor's in Computer Science
-   I am currently learning .Net and also interestd in AI
-   My goal is to Contribute to as many open source project as possible 
   </td>  
+  <td>
+   I am currently learning .Net and also interestd in AI
+  </td>
+  <td>
+     My goal is to Contribute to as many open source project as possible 
+  </td>
  </tr>
 </table>
 
- # replace username with your own or change theme
-![GitHub Activity Graph](https://cdn.hackernoon.com/images/cl-0-trqiv-904-gq-0-as-63-xgab-2-dm.jpg)
+![Shahd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Little-grow)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!--
 **Little-grow/Little-grow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
