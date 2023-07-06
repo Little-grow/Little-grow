@@ -56,6 +56,3 @@
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Little-grow&show_icons=true&locale=en" alt="Little-grow" /></p>
  
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Little-grow&" alt="Little-grow" /></p>
- 
- 
-[![Shahd's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Little-grow)](https://github.com/ashutosh00710/github-readme-activity-graph)
