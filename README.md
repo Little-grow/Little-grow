@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://github-profile-trophy.vercel.app/?username=Little-grow">
-    <img src="https://github-profile-trophy.vercel.app/?username=Little-grow&theme=gruvbox&margin-w=10&margin-h=10" alt="GitHub Profile Trophy"/>
   </a>
 </p>
 
