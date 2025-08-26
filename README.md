@@ -11,7 +11,7 @@
 ### 👩‍💻 About Me
 - 🎓 **Bachelor's in Computer Science** 
 - 💼 Currently working as a **Software Engineer (Remote)** for a UK-based company
-- 🚀 Developed **[ArchivAI](https://www.youtube.com/watch?v=D4mSlkTtFpA)** – an AI-powered Document Management and Classification platform.  
+- 🚀 Developed **[ArchivAI](https://archivai.net/)** – an AI-powered Document Management and Classification platform.  
   📺 [Demo Video](https://www.youtube.com/watch?v=D4mSlkTtFpA) | 📑 [Backend API Docs](https://archivai-backend.azurewebsites.net/index.html)
 - 🌱 Learning & exploring **Backend Development, Distributed Systems, and DevOps**  
 - 🤝 Passionate about **open source, clean code, and scalable architectures**
